@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(253, 228, 158);
+}
+
+.ingredients,.steps{
+    color: rgb(15, 13, 13);
+    font-size: 1.5em;
+    font-family:fantasy;
+}
